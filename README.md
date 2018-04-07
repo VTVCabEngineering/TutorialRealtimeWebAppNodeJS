@@ -1,7 +1,7 @@
-# TutorialRealtimeWebAppNodeJS
+# Tutorial Realtime Web App NodeJS
 Bài hướng dẫn phát triển ứng dụng Web thời gian thực sử dụng NodeJS, Socket.io và ExpressJS
 
-## Video hướng dẫn
+## Video hướng dẫn [tutorial]
 
 https://www.youtube.com/watch?v=NOrOImSveI0
 
