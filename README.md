@@ -3,7 +3,7 @@ Bài hướng dẫn phát triển ứng dụng Web thời gian thực sử dụn
 
 ## Video hướng dẫn
 
-https://youtu.be/cdANb9GFXVI
+https://www.youtube.com/watch?v=cdANb9GFXVI
 
 #### Hướng dẫn chạy ứng dụng mẫu
 
